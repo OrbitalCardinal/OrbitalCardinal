@@ -47,4 +47,4 @@
 
 ### Coding tools:
 <img align="left" width="48" src="https://www.cursosgis.com/wp-content/uploads/1-17.png"/>
-<img align="left" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg"/>
+<img align="left" width="44" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg"/>
