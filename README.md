@@ -18,9 +18,8 @@
 [linkedin]: https://www.linkedin.com/in/edson-raul-cepeda-marquez-b35b2720a/
 [facebook]: https://www.facebook.com/edsonraul.cepedamarquez/
 [whatsapp]: https://wa.me/528122942626
-<!--
-**OrbitalCardinal/OrbitalCardinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Languages and Tools:
 
--->
+[<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>]
+[<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-r-project-a-free-software-environment-for-statistical-computing-and-graphics-logo-shadow-tal-revivo.png"/>]
