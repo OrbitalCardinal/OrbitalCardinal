@@ -51,6 +51,13 @@
 <br/>
 <br/>
 
+### Mobile Apps Dev:
+<img align="left" src="https://img.icons8.com/color/48/000000/dart.png"/>
+<img align="left" src="https://img.icons8.com/fluency/48/000000/flutter.png"/>
+
+<br/>
+<br/>
+
 ### General tools:
 <img align="left" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img align="left" width="48" src="https://www.cursosgis.com/wp-content/uploads/1-17.png"/>
