@@ -1,4 +1,4 @@
-### Hi there, I'm Edson Cepeda 👋
+## Hi there, I'm Edson Cepeda 👋
 
 ### I'm a Software Engineer Student aspiring to be a Machine Learning Engineer and Data Scientist
 
@@ -18,6 +18,9 @@
 [linkedin]: https://www.linkedin.com/in/edson-raul-cepeda-marquez-b35b2720a/
 [facebook]: https://www.facebook.com/edsonraul.cepedamarquez/
 [whatsapp]: https://wa.me/528122942626
+
+<br/>
+---
 
 ### Data Science and Machine Learning Tools:
 
