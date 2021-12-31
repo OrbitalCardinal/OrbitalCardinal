@@ -29,3 +29,4 @@
 <img align="left" width="48" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
 <img align="left" width="48" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg"/>
 <img align="left" width="48" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>
+<img align="left" src="https://img.icons8.com/color/50/000000/tensorflow.png"/>
