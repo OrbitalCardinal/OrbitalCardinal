@@ -21,5 +21,8 @@
 
 ### Languages and Tools:
 
-[<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>]
-[<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-r-project-a-free-software-environment-for-statistical-computing-and-graphics-logo-shadow-tal-revivo.png"/>]
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-r-project-a-free-software-environment-for-statistical-computing-and-graphics-logo-shadow-tal-revivo.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
+<img src="https://img.icons8.com/color/48/000000/numpy.png"/>
+<img width="48" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
