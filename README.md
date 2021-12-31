@@ -36,11 +36,11 @@
 ### Web development Tools:
 <img align="left" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/typescript.png"/>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png"/>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img src="https://img.icons8.com/color/48/000000/heroku.png"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png"/>
+<img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/heroku.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
 ### Coding tools:
 <img align="left" width="48" src="https://www.cursosgis.com/wp-content/uploads/1-17.png"/>
