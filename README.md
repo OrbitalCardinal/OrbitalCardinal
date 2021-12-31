@@ -23,6 +23,8 @@
 
 <img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img align="left" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-r-project-a-free-software-environment-for-statistical-computing-and-graphics-logo-shadow-tal-revivo.png"/>
+<img align="left" width="44" src="https://ggplot2.tidyverse.org/logo.png"/>
+<img align="left" width="44" src="https://mwarning.github.io/chaos-sticker-collection/images/hex-stickers-knitr/hex-stickers-knitr.png"/>
 <img align="left" src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/numpy.png"/>
 <img align="left" width="48" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
