@@ -70,4 +70,8 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/latex.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img align="left" src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
-<img align="left" width="44" src="https://mpng.subpng.com/20180808/ytw/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bash-from-5b6ab0e6d589e2.2952756215337187588747.jpg"/>
+
+<br/>
+<br/>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=OrbitalCardinal"/>
