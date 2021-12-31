@@ -11,9 +11,9 @@
 
 ### You can reach me here:
 
-[<img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" src="https://img.icons8.com/color/48/000000/facebook.png"/>][facebook]
-[<img align="left" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>][whatsapp]
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img src="https://img.icons8.com/color/48/000000/facebook.png"/>][facebook]
+[<img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>][whatsapp]
 
 
 [linkedin]: https://www.linkedin.com/in/edson-raul-cepeda-marquez-b35b2720a/
@@ -22,8 +22,8 @@
 
 ### Languages and Tools:
 
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-r-project-a-free-software-environment-for-statistical-computing-and-graphics-logo-shadow-tal-revivo.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
-<img src="https://img.icons8.com/color/48/000000/numpy.png"/>
-<img width="48" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img align="left" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-r-project-a-free-software-environment-for-statistical-computing-and-graphics-logo-shadow-tal-revivo.png"/>
+<img align="left" src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/numpy.png"/>
+<img align="left" width="48" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
