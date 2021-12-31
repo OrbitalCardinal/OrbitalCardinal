@@ -40,11 +40,13 @@
 <img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/heroku.png"/>
+
+<br/>
+<br/>
+
+### General tools:
 <img align="left" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-
-<br/>
-<br/>
-
-### Coding tools:
 <img align="left" width="48" src="https://www.cursosgis.com/wp-content/uploads/1-17.png"/>
 <img align="left" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+<img align="left" width="48" src="https://miro.medium.com/max/1000/0*jp2Q4PTmFPCek02g"/>
