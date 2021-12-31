@@ -7,8 +7,7 @@
 - 👯 I’m looking to collaborate on data science and machine learning projects
 - 🤔 I’m looking for an entry level job or an internship on machine learning
 - 💬 Ask me about python and machine learning
-- ⚡ Fun fact: I was studying System Engineering before, I changed career to Software Engineering
-
+- ⚡ Fun fact: I was studying System Engineering before, I changed career to Software Engineering and because of that I know a little bit of web dev.
 ### You can reach me here:
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
@@ -22,6 +21,10 @@
 
 ### Languages and Tools:
 
+<br/>
+
+#### Data Science and Machine Learning:
+
 <img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img align="left" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-r-project-a-free-software-environment-for-statistical-computing-and-graphics-logo-shadow-tal-revivo.png"/>
 <img align="left" src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
@@ -30,3 +33,8 @@
 <img align="left" width="48" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg"/>
 <img align="left" width="48" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>
 <img align="left" src="https://img.icons8.com/color/50/000000/tensorflow.png"/>
+
+<br/>
+
+#### Web development
+
