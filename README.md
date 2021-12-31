@@ -13,6 +13,7 @@
 
 [<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>][linkedin]
 
+[linkedin]: https://www.linkedin.com/in/edson-raul-cepeda-marquez-b35b2720a/
 <!--
 **OrbitalCardinal/OrbitalCardinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
