@@ -13,9 +13,11 @@
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>][facebook]
+[<img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>][whatsapp]
 
 [linkedin]: https://www.linkedin.com/in/edson-raul-cepeda-marquez-b35b2720a/
 [facebook]: https://www.facebook.com/edsonraul.cepedamarquez/
+[whatsapp]: https://wa.me/528122942626
 <!--
 **OrbitalCardinal/OrbitalCardinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
