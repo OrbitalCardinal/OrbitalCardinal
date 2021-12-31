@@ -11,9 +11,10 @@
 
 ### You can reach me here:
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img src="https://img.icons8.com/color/48/000000/facebook.png"/>][facebook]
-[<img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>][whatsapp]
+[<img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" src="https://img.icons8.com/color/48/000000/facebook.png"/>][facebook]
+[<img align="left" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>][whatsapp]
+
 
 [linkedin]: https://www.linkedin.com/in/edson-raul-cepeda-marquez-b35b2720a/
 [facebook]: https://www.facebook.com/edsonraul.cepedamarquez/
