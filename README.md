@@ -49,6 +49,7 @@
 <img align="left" width="40" src="https://leanmind.es/images/min/jest.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left" width="40" src="https://e7.pngegg.com/pngimages/33/52/png-clipart-sass-logo-cascading-style-sheets-scalable-graphics-less-text-logo.png"/>
 
 <br/>
 <br/>
@@ -67,3 +68,6 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
 <img align="left" width="40" src="https://miro.medium.com/max/1000/0*jp2Q4PTmFPCek02g"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/latex.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="left" src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
+<img align="left" width="44" src="https://mpng.subpng.com/20180808/ytw/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bash-from-5b6ab0e6d589e2.2952756215337187588747.jpg"/>
