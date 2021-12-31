@@ -27,3 +27,5 @@
 <img align="left" src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/numpy.png"/>
 <img align="left" width="48" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
+<img align="left" width="48" src="https://es.wikipedia.org/wiki/Pandas_(software)#/media/Archivo:Pandas_mark.svg"/>
+<img align="left" width="48" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>
