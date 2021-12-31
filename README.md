@@ -12,7 +12,7 @@
 ### You can reach me here:
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img src="https://img.icons8.com/ios-filled/50/000000/facebook--v1.png"/>][facebook]
+[<img src="https://img.icons8.com/color/48/000000/facebook.png"/>][facebook]
 
 [linkedin]: https://www.linkedin.com/in/edson-raul-cepeda-marquez-b35b2720a/
 [facebook]: https://www.facebook.com/edsonraul.cepedamarquez/
