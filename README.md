@@ -19,8 +19,7 @@
 [facebook]: https://www.facebook.com/edsonraul.cepedamarquez/
 [whatsapp]: https://wa.me/528122942626
 
-### Languages and Tools:
-#### Data Science and Machine Learning:
+### Data Science and Machine Learning Tools:
 
 <img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img align="left" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-r-project-a-free-software-environment-for-statistical-computing-and-graphics-logo-shadow-tal-revivo.png"/>
@@ -34,5 +33,14 @@
 <br/>
 <br/>
 
-#### Web development
+### Web development Tools:
+<img align="left" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/48/000000/heroku.png"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
+### Coding tools:
+<img align="left" width="48" src="https://www.cursosgis.com/wp-content/uploads/1-17.png"/>
