@@ -42,6 +42,9 @@
 <img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/heroku.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="left" width="40" src="https://leanmind.es/images/min/jest.png"/>
 
 <br/>
 <br/>
