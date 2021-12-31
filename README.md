@@ -12,8 +12,10 @@
 ### You can reach me here:
 
 [<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>][linkedin]
+[<img src="https://img.icons8.com/ios-filled/100/000000/facebook--v1.png"/>][facebook]
 
 [linkedin]: https://www.linkedin.com/in/edson-raul-cepeda-marquez-b35b2720a/
+[facebook]: https://www.facebook.com/edsonraul.cepedamarquez/
 <!--
 **OrbitalCardinal/OrbitalCardinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
