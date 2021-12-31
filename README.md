@@ -20,9 +20,6 @@
 [whatsapp]: https://wa.me/528122942626
 
 ### Languages and Tools:
-
-<br/>
-
 #### Data Science and Machine Learning:
 
 <img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
@@ -34,6 +31,7 @@
 <img align="left" width="48" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>
 <img align="left" src="https://img.icons8.com/color/50/000000/tensorflow.png"/>
 
+<br/>
 <br/>
 
 #### Web development
