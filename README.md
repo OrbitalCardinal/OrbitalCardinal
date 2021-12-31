@@ -81,4 +81,4 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=OrbitalCardinal&show_icons=true&theme=buefy"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrbitalCardinal&layout=compact&theme=buefy"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrbitalCardinal&layout=compact&theme=buefy"/>
