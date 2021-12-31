@@ -10,6 +10,7 @@
 - ⚡ Fun fact: I was studying System Engineering before, I changed career to Software Engineering
 
 ### You can reach me here:
+
 [<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>][linkedin]
 
 <!--
