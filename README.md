@@ -80,5 +80,5 @@
 --- 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=OrbitalCardinal&show_icons=true&theme=dracula"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrbitalCardinal&layout=compact"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=OrbitalCardinal&show_icons=true&theme=github_dark"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrbitalCardinal&layout=compact&theme=github_dark"/>
