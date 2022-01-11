@@ -69,7 +69,6 @@
 <img align="left" width="48" src="https://www.cursosgis.com/wp-content/uploads/1-17.png"/>
 <img align="left" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
-<img align="left" width="40" src="https://miro.medium.com/max/1000/0*jp2Q4PTmFPCek02g"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/latex.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img align="left" src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
