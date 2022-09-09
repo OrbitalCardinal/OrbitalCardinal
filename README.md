@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on improving my probability and statistics skills
 - 🌱 I’m currently learning data analysis and R programming language in depth
 - 👯 I’m looking to collaborate on data science and machine learning projects
-- 🤔 I’m looking for an entry level job or an internship on machine learning or data science
 - 💬 Ask me about python and machine learning
 - ⚡ Fun fact: I was studying System Engineering before, I changed career to Software Engineering and because of that I know a little bit of web dev and mobile dev.
 
