@@ -1,6 +1,6 @@
 ## Hi there, I'm Edson Cepeda 👋
 
-### I'm a Software Engineering Student aspiring to be a Machine Learning Engineer and Data Scientist
+### I'm a Data Scientist Jr. working on the fintech industry.
 
 - 🔭 I’m currently working on improving my probability and statistics skills
 - 🌱 I’m currently learning data analysis and R programming language in depth
